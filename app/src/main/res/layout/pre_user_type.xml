@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="50sp"
+        android:layout_marginLeft="22sp"
+        android:layout_marginRight="22sp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layoutDirection="rtl"
+            android:text="@string/start_as"
+            android:layout_marginBottom="20sp"
+            android:fontFamily="@font/arabicbold"
+            android:textColor="@color/primaryDark"
+            android:gravity="right"
+            android:textSize="24sp"
+            />
+
+        <Button
+            android:id="@+id/carOwner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_radius"
+            android:backgroundTint="@color/primaryDark"
+            android:textColor="@color/primary"
+            android:text="@string/car_owner"
+            android:textSize="18sp"
+            android:fontFamily="@font/arabicreg"
+            />
+
+        <Button
+            android:id="@+id/provider"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_radius"
+            android:layout_marginTop="15sp"
+            android:textColor="@color/primaryDark"
+            android:text="@string/car_owner"
+            android:textSize="18sp"
+            android:fontFamily="@font/arabicreg"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ESTBN_MVB</string>
+
+    <string name="pre_p1_title">أظهار الموقع</string>
+    <string name="pre_p1_desc">لوريم إيبسوم طريقة لكتابة النصوص في النشر والتصميم الجرافيكي تستخدم بشكل شائع لتوضيح الشكل المرئي للمستند أو الخط </string>
+
+    <string name="pre_p2_title">أظهار الموقع</string>
+    <string name="pre_p2_desc">لوريم إيبسوم طريقة لكتابة النصوص في النشر والتصميم الجرافيكي تستخدم بشكل شائع لتوضيح الشكل المرئي للمستند أو الخط </string>
+
+    <string name="pre_p3_title">أظهار الموقع</string>
+    <string name="pre_p3_desc">لوريم إيبسوم طريقة لكتابة النصوص في النشر والتصميم الجرافيكي تستخدم بشكل شائع لتوضيح الشكل المرئي للمستند أو الخط </string>
+
+
+    <string name="start">ابدأ الان</string>
+
+    <string name="skip">Skip</string>
+    <string name="start_as">البدأ ك</string>
+    <string name="car_owner">مالك سيارة</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "ESTBN_MVB"
+include ':app'
