@@ -42,7 +42,7 @@
             android:background="@drawable/btn_radius"
             android:layout_marginTop="15sp"
             android:textColor="@color/primaryDark"
-            android:text="@string/car_owner"
+            android:text="@string/service_provider"
             android:textSize="18sp"
             android:fontFamily="@font/arabicreg"
             />

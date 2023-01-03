@@ -2,7 +2,11 @@
 <resources>
     <color name="primaryDark">#000000</color>
     <color name="primary">#FFFFFF</color>
-    <color name="gray">#cccccc</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#33313b</color>
+    <color name="borderColor">#AEAEAE</color>
+    <color name="gray">#636368</color>
     <color name="purple_200">#FFFFFF</color>
     <color name="purple_500">#000000</color>
     <color name="purple_700">#000000</color>

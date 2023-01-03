@@ -12,8 +12,21 @@
 
 
     <string name="start">ابدأ الان</string>
+    <string name="service_provider">مقدم خدمة</string>
 
     <string name="skip">Skip</string>
     <string name="start_as">البدأ ك</string>
     <string name="car_owner">مالك سيارة</string>
+
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="login_sub_title">أهلا بعودتك ، لقد اشتقنا أليك</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="phone_hint">01009999999</string>
+    <string name="password_text">كلمة السر</string>
+    <string name="password_hint">************</string>
+    <string name="remember_me">تذكرنى</string>
+    <string name="forget_password">نسيت كلمة السر ؟</string>
+    <string name="login_text">تسجيل الدخول</string>
+    <string name="no_account">ليس لديك حساب ؟</string>
+    <string name="create_account"> انشاء حساب</string>
 </resources>
